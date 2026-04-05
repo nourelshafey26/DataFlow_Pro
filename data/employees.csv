@@ -1,0 +1,16 @@
+employee_id,name,role,manager_id,sales_egp
+1,Omar Farouk,Global CEO,,0
+2,Tarek Nabil,VP Cairo & Giza,1,0
+3,Salma Khaled,VP Alex & Delta,1,0
+4,Aya Hassan,Maadi Branch Manager,2,0
+5,Mahmoud Samy,Zayed Branch Manager,2,0
+6,Kareem Ali,Smouha Branch Manager,3,0
+7,Nour Ibrahim,Mansoura Branch Manager,3,0
+8,Dina Mostafa,Sales Rep,4,150000
+9,Youssef Adel,Sales Rep,4,95000
+10,Rania Samir,Sales Rep,5,270000
+11,Hany Fouad,Sales Rep,5,180000
+12,Mona Gamal,Sales Rep,6,180000
+13,Sherif Lotfy,Sales Rep,6,220000
+14,Asmaa Wael,Sales Rep,7,120000
+15,Bassem Nour,Sales Rep,7,95000
