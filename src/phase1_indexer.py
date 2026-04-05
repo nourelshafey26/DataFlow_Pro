@@ -345,3 +345,5 @@ if __name__ == "__main__":
     extract_q3_sales(sorted_by_date)
 
     print("\n[Phase 1] Complete ")
+#   P h a s e   1 :   S o r t i n g   a n d   S e a r c h i n g  
+ 
